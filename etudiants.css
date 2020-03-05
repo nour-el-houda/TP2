@@ -1,0 +1,39 @@
+etudiants{ background-color: #865}
+etudiant{ display: table; }
+
+maticule{ color: #fff;
+ font-family: 'Righteous', cursive;
+ font-size: 40px;
+ line-height: 60px;
+ text-transform: uppercase;
+ text-shadow: 2px 2px 0 #000, margin: 10px 0 24px;
+}
+nom {color: #fff;
+ font-family: 'Righteous', cursive;
+ font-size: 40px;
+ line-height: 60px;
+ text-transform: uppercase;
+ text-shadow: 2px 2px 0 #000, margin: 10px 0 24px;
+}
+prenom {font-size: 30px;
+ color: #DFBF84;
+ text-shadow: 1px 1px 0 #000, margin: 10px 0 24px;
+ line-height: 50px;
+}
+Moy {display: table;
+ color: #f6f6f6;
+ font-size: 16px;
+ line-height: 24px;
+}
+Moy-S1 {padding: 15px; font-size: 20px; }
+Moy-S2 { color: #e8d4a7; }
+Moy-annuel { padding: 15px; font-size: 20px; }
+
+credit-S1 { padding: 15px; font-size: 20px; }
+credit-S2 {color: #e8d4a7; }
+
+Unite-acuise{display: table;
+ color: #f6f6f6;
+ font-size: 16px;
+ line-height: 24px;
+}
